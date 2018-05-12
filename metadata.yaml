@@ -1,0 +1,31 @@
+_repo: Death-of-a-B.E.M._32726
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32726-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Livingston, Berkeley
+    birthdate: 1909
+    deathdate: 1975
+    gutenberg_agent_id: '35823'
+    url: http://www.gutenberg.org/2009/agents/35823
+description: ''
+gutenberg_issued: '2010-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32726'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Artists -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Monsters -- Fiction'
+- !lcsh 'Authors -- Fiction'
+- !lcsh 'Imagination -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+title: Death of a B.E.M.
+url: http://www.gutenberg.org/ebooks/32726
